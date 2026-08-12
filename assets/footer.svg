@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="120" viewBox="0 0 980 120" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="t" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="980" height="120" rx="18" fill="#070b14" stroke="#1e293b"/>
+  <text x="490" y="48" text-anchor="middle" font-family="Inter, Segoe UI, system-ui, sans-serif" font-size="18" font-weight="650" fill="#e2e8f0">Building systems. Automating work. Exploring AI.</text>
+  <text x="320" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#64748b">&gt; engineer --focus backend --with ai</text>
+  <rect x="618" y="68" width="8" height="16" fill="url(#t)">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
