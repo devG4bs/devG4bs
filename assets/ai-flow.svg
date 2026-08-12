@@ -1,57 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="220" viewBox="0 0 980 220" role="img" aria-label="AI engineering flow">
-  <defs>
-    <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="50%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#818cf8"/>
-      <animate attributeName="x1" values="0%;20%;0%" dur="4s" repeatCount="indefinite"/>
-    </linearGradient>
-  </defs>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="220" viewBox="0 0 980 220" role="img" aria-label="Fluxo de engenharia de IA">
   <rect width="980" height="220" rx="20" fill="#070b14" stroke="#1e293b"/>
+  <text x="36" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Fluxo de IA em runtime</text>
+  <text x="36" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#64748b">Usuário ? LLM ? Agente ? Tools ? Serviços ? Sistemas</text>
 
-  <text x="36" y="42" font-family="Inter, Segoe UI, system-ui, sans-serif" font-size="16" font-weight="700" fill="#f8fafc">AI Runtime Flow</text>
-  <text x="36" y="64" font-family="Inter, Segoe UI, system-ui, sans-serif" font-size="12" fill="#64748b">User ’ LLM ’ Agent ’ Tools ’ Services ’ Systems</text>
+  <rect x="28" y="100" width="118" height="56" rx="12" fill="#0f172a" stroke="#22d3ee"/>
+  <text x="87" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">Usuário</text>
 
-  <!-- nodes -->
-  <g font-family="Inter, Segoe UI, system-ui, sans-serif">
-    <rect x="36" y="100" width="120" height="56" rx="12" fill="#0f172a" stroke="#22d3ee"/>
-    <text x="96" y="134" text-anchor="middle" font-size="14" font-weight="650" fill="#e2e8f0">User</text>
+  <rect x="186" y="100" width="118" height="56" rx="12" fill="#0f172a" stroke="#22d3ee"/>
+  <text x="245" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">LLM</text>
 
-    <rect x="196" y="100" width="120" height="56" rx="12" fill="#0f172a" stroke="#22d3ee"/>
-    <text x="256" y="134" text-anchor="middle" font-size="14" font-weight="650" fill="#e2e8f0">LLM</text>
+  <rect x="344" y="100" width="118" height="56" rx="12" fill="#0f172a" stroke="#38bdf8"/>
+  <text x="403" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">Agente</text>
 
-    <rect x="356" y="100" width="120" height="56" rx="12" fill="#0f172a" stroke="#38bdf8"/>
-    <text x="416" y="134" text-anchor="middle" font-size="14" font-weight="650" fill="#e2e8f0">Agent</text>
+  <rect x="502" y="100" width="118" height="56" rx="12" fill="#0f172a" stroke="#60a5fa"/>
+  <text x="561" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">Tools</text>
 
-    <rect x="516" y="100" width="120" height="56" rx="12" fill="#0f172a" stroke="#60a5fa"/>
-    <text x="576" y="134" text-anchor="middle" font-size="14" font-weight="650" fill="#e2e8f0">Tools</text>
+  <rect x="660" y="100" width="118" height="56" rx="12" fill="#0f172a" stroke="#818cf8"/>
+  <text x="719" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">Serviços</text>
 
-    <rect x="676" y="100" width="120" height="56" rx="12" fill="#0f172a" stroke="#818cf8"/>
-    <text x="736" y="134" text-anchor="middle" font-size="14" font-weight="650" fill="#e2e8f0">Services</text>
+  <rect x="818" y="100" width="134" height="56" rx="12" fill="#0f172a" stroke="#a78bfa"/>
+  <text x="885" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">Sistemas</text>
 
-    <rect x="836" y="100" width="108" height="56" rx="12" fill="#0f172a" stroke="#a78bfa"/>
-    <text x="890" y="134" text-anchor="middle" font-size="14" font-weight="650" fill="#e2e8f0">Systems</text>
+  <g stroke="#22d3ee" stroke-width="2.5" fill="none">
+    <path d="M146 128 H186"><animate attributeName="stroke-dasharray" values="0 50;50 0" dur="1.6s" repeatCount="indefinite"/></path>
+    <path d="M304 128 H344"><animate attributeName="stroke-dasharray" values="0 50;50 0" dur="1.6s" begin="0.2s" repeatCount="indefinite"/></path>
+    <path d="M462 128 H502"><animate attributeName="stroke-dasharray" values="0 50;50 0" dur="1.6s" begin="0.4s" repeatCount="indefinite"/></path>
+    <path d="M620 128 H660"><animate attributeName="stroke-dasharray" values="0 50;50 0" dur="1.6s" begin="0.6s" repeatCount="indefinite"/></path>
+    <path d="M778 128 H818"><animate attributeName="stroke-dasharray" values="0 50;50 0" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></path>
   </g>
 
-  <!-- animated connectors -->
-  <g stroke="url(#flow)" stroke-width="2.5" fill="none">
-    <path d="M156 128 H196">
-      <animate attributeName="stroke-dasharray" values="0 60;60 0" dur="1.6s" repeatCount="indefinite"/>
-    </path>
-    <path d="M316 128 H356">
-      <animate attributeName="stroke-dasharray" values="0 60;60 0" dur="1.6s" begin="0.2s" repeatCount="indefinite"/>
-    </path>
-    <path d="M476 128 H516">
-      <animate attributeName="stroke-dasharray" values="0 60;60 0" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
-    </path>
-    <path d="M636 128 H676">
-      <animate attributeName="stroke-dasharray" values="0 60;60 0" dur="1.6s" begin="0.6s" repeatCount="indefinite"/>
-    </path>
-    <path d="M796 128 H836">
-      <animate attributeName="stroke-dasharray" values="0 60;60 0" dur="1.6s" begin="0.8s" repeatCount="indefinite"/>
-    </path>
-  </g>
-
-  <text x="36" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#475569">tool_calling · mcp · orchestration · observability</text>
+  <text x="36" y="196" font-family="Consolas, Monaco, monospace" font-size="12" fill="#475569">tool calling · mcp · orquestração · observabilidade</text>
 </svg>
