@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="120" viewBox="0 0 980 120" role="img" aria-label="Rodapé">
   <rect width="980" height="120" rx="18" fill="#070b14" stroke="#1e293b"/>
   <text x="490" y="48" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="650" fill="#e2e8f0">Construindo sistemas. Automatizando trabalho. Explorando IA.</text>
-  <text x="280" y="82" font-family="Consolas, Monaco, monospace" font-size="13" fill="#64748b">&gt; engenheiro --foco backend --com ia</text>
-  <rect x="620" y="68" width="8" height="16" fill="#22d3ee">
+  <text x="240" y="82" font-family="Consolas, Monaco, monospace" font-size="13" fill="#64748b">&gt; engenheiro --foco fullstack --com ia</text>
+  <rect x="640" y="68" width="8" height="16" fill="#22d3ee">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
