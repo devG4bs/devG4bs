@@ -196,8 +196,8 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 ## Estatisticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/stats.png" alt="Estatisticas do GitHub" />
-  <img height="180" src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/langs.png" alt="Linguagens mais usadas" />
+  <img height="180" src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@9517eb521a9f71656e5241bf17c25957198028ff/assets/stats.png" alt="Estatisticas do GitHub" />
+  <img height="180" src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@9517eb521a9f71656e5241bf17c25957198028ff/assets/langs.png" alt="Linguagens mais usadas" />
 </div>
 
 <br/>
