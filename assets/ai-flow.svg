@@ -1,26 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="220" viewBox="0 0 980 220" role="img" aria-label="Fluxo de engenharia de IA">
   <rect width="980" height="220" rx="20" fill="#070b14" stroke="#1e293b"/>
   <text x="36" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#f8fafc">Fluxo de IA em runtime</text>
-  <text x="36" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#64748b">Usuário ? LLM ? Agente ? Tools ? Serviços ? Sistemas</text>
-
+  <text x="36" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#64748b">Usuario -&gt; LLM -&gt; Agente -&gt; Tools -&gt; Servicos -&gt; Sistemas</text>
   <rect x="28" y="100" width="118" height="56" rx="12" fill="#0f172a" stroke="#22d3ee"/>
-  <text x="87" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">Usuário</text>
-
+  <text x="87" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">Usuario</text>
   <rect x="186" y="100" width="118" height="56" rx="12" fill="#0f172a" stroke="#22d3ee"/>
   <text x="245" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">LLM</text>
-
   <rect x="344" y="100" width="118" height="56" rx="12" fill="#0f172a" stroke="#38bdf8"/>
   <text x="403" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">Agente</text>
-
   <rect x="502" y="100" width="118" height="56" rx="12" fill="#0f172a" stroke="#60a5fa"/>
   <text x="561" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">Tools</text>
-
   <rect x="660" y="100" width="118" height="56" rx="12" fill="#0f172a" stroke="#818cf8"/>
-  <text x="719" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">Serviços</text>
-
+  <text x="719" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">Servicos</text>
   <rect x="818" y="100" width="134" height="56" rx="12" fill="#0f172a" stroke="#a78bfa"/>
   <text x="885" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650" fill="#e2e8f0">Sistemas</text>
-
   <g stroke="#22d3ee" stroke-width="2.5" fill="none">
     <path d="M146 128 H186"><animate attributeName="stroke-dasharray" values="0 50;50 0" dur="1.6s" repeatCount="indefinite"/></path>
     <path d="M304 128 H344"><animate attributeName="stroke-dasharray" values="0 50;50 0" dur="1.6s" begin="0.2s" repeatCount="indefinite"/></path>
@@ -28,6 +22,5 @@
     <path d="M620 128 H660"><animate attributeName="stroke-dasharray" values="0 50;50 0" dur="1.6s" begin="0.6s" repeatCount="indefinite"/></path>
     <path d="M778 128 H818"><animate attributeName="stroke-dasharray" values="0 50;50 0" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></path>
   </g>
-
-  <text x="36" y="196" font-family="Consolas, Monaco, monospace" font-size="12" fill="#475569">tool calling · mcp · orquestração · observabilidade</text>
+  <text x="36" y="196" font-family="Consolas, Monaco, monospace" font-size="12" fill="#475569">tool calling | mcp | orquestracao | observabilidade</text>
 </svg>

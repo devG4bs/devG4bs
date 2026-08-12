@@ -1,5 +1,5 @@
 <!--
-  GitHub Profile README — Gabriel Freire (devG4bs)
+  GitHub Profile README - Gabriel Freire (devG4bs)
   Personalize:
   - Contato: LinkedIn + e-mail abaixo
   - Projetos em destaque: substitua os placeholders
@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/banner.svg" alt="Gabriel Freire — Engenheiro de Software Full Stack | Engenharia de IA" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/banner.png" alt="Gabriel Freire - Engenheiro de Software Full Stack | Engenharia de IA" width="100%" />
 
   <br/>
 
@@ -18,7 +18,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/divider.svg" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🎯 Foco em Engenharia
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/divider.svg" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 👋 Sobre mim
@@ -52,19 +52,19 @@ Tenho interesse em construir produtos completos: interfaces, APIs, microsserviç
 - Arquitetura de software · sistemas distribuídos
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/divider.svg" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🏛️ Mentalidade de Arquitetura
 
-Como eu penso sistemas — camadas claras, ownership explícito, da inteligência à persistência.
+Como eu penso sistemas - camadas claras, ownership explícito, da inteligência à persistência.
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/architecture.svg" alt="Diagrama de arquitetura" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/architecture.png" alt="Diagrama de arquitetura" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/divider.svg" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🤖 Engenharia de IA
@@ -80,11 +80,11 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 | **Automação** | automação de engenharia com IA |
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/ai-flow.svg" alt="Fluxo de IA" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/ai-flow.png" alt="Fluxo de IA" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/divider.svg" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🛠️ Stack Tecnológica
@@ -155,7 +155,7 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/divider.svg" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🧩 O que eu construo
@@ -164,7 +164,7 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
   <tr>
     <td width="50%" valign="top">
       <h3>🖥️ Experiências Full Stack</h3>
-      <p>Interfaces, APIs e fluxos completos — do frontend ao backend.</p>
+      <p>Interfaces, APIs e fluxos completos - do frontend ao backend.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🏗️ Arquitetura de Sistemas</h3>
@@ -190,7 +190,7 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 </table>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/divider.svg" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 📊 Estatísticas do GitHub
@@ -213,7 +213,7 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 </div>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/divider.svg" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🚀 Projetos em destaque
@@ -244,7 +244,7 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 </table>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/divider.svg" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🔭 Explorando agora
@@ -256,7 +256,7 @@ Automação para Desenvolvedores  ·  Infraestrutura Cloud
 ```
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/divider.svg" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🧠 Princípios de Engenharia
@@ -270,7 +270,7 @@ Automação para Desenvolvedores  ·  Infraestrutura Cloud
 - Resolver o problema antes de adicionar complexidade
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/divider.svg" width="100%" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 📬 Contato
@@ -286,7 +286,7 @@ Automação para Desenvolvedores  ·  Infraestrutura Cloud
 <br/>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@d3a77d42674df0534dcffb16e42a831c294a6ed7/assets/footer.svg" alt="Construindo sistemas. Automatizando trabalho. Explorando IA." width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/footer.png" alt="Construindo sistemas. Automatizando trabalho. Explorando IA." width="100%" />
 </p>
 
 <p align="center">
