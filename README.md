@@ -193,23 +193,23 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
   <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@23432cfcdb9eb6230fdbd3afb067722e381306b5/assets/divider.svg" width="100%" alt="" />
 </p>
 
-## 📊 Estatísticas do GitHub
+## Estatisticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devG4bs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=22d3ee&icon_color=818cf8&text_color=cbd5e1&ring_color=22d3ee&locale=pt-br&cache_seconds=86400" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devG4bs&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=22d3ee&text_color=cbd5e1&locale=pt-br&cache_seconds=86400" alt="Linguagens mais usadas" />
+  <img height="180" src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/stats.png" alt="Estatisticas do GitHub" />
+  <img height="180" src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@main/assets/langs.png" alt="Linguagens mais usadas" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=devG4bs&theme=tokyonight&hide_border=true&background=070b14&ring=22d3ee&fire=818cf8&currStreakLabel=22d3ee&locale=pt_BR" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=devG4bs&theme=tokyonight&hide_border=true&background=070b14&ring=22d3ee&fire=818cf8&currStreakLabel=22d3ee" alt="Sequencia de contribuicoes" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devG4bs&bg_color=070b14&color=22d3ee&line=818cf8&point=38bdf8&area=true&hide_border=true&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es" alt="Gráfico de contribuições" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devG4bs&bg_color=070b14&color=22d3ee&line=818cf8&point=38bdf8&area=true&hide_border=true&custom_title=Contribuicoes" alt="Grafico de contribuicoes" width="100%" />
 </div>
 
 <p align="center">
