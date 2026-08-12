@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Gabriel Freire — Software Engineer | Backend & AI Engineering" width="100%" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/banner.svg" alt="Gabriel Freire — Software Engineer | Backend & AI Engineering" width="100%" />
 
   <br/>
 
@@ -18,7 +18,7 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🎯 Engineering Focus
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 👋 About Me
@@ -52,7 +52,7 @@ Interesse em construir sistemas escaláveis, APIs, microsserviços e soluções 
 - System architecture · Distributed systems
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🏛️ Architecture Mindset
@@ -60,11 +60,11 @@ Interesse em construir sistemas escaláveis, APIs, microsserviços e soluções 
 Como eu penso sistemas — camadas claras, ownership explícito, da inteligência à persistência.
 
 <p align="center">
-  <img src="./assets/architecture.svg" alt="Engineering architecture diagram" width="100%" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/architecture.svg" alt="Engineering architecture diagram" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🤖 AI Engineering
@@ -80,11 +80,11 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 | **Automation** | AI-powered developer automation |
 
 <p align="center">
-  <img src="./assets/ai-flow.svg" alt="AI runtime flow" width="100%" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/ai-flow.svg" alt="AI runtime flow" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🛠️ Tech Stack
@@ -155,7 +155,7 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🧩 What I Build
@@ -190,7 +190,7 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 </table>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 📊 GitHub Stats
@@ -213,7 +213,7 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 </div>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🚀 Featured Projects
@@ -244,7 +244,7 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 </table>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🔭 Currently Exploring
@@ -256,7 +256,7 @@ Developer Automation  ·  Cloud Infrastructure
 ```
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 🧠 Engineering Principles
@@ -270,7 +270,7 @@ Developer Automation  ·  Cloud Infrastructure
 - Solve problems before adding complexity
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## 📬 Connect
@@ -286,7 +286,7 @@ Developer Automation  ·  Cloud Infrastructure
 <br/>
 
 <p align="center">
-  <img src="./assets/footer.svg" alt="Building systems. Automating work. Exploring AI." width="100%" />
+  <img src="https://raw.githubusercontent.com/devG4bs/devG4bs/main/assets/footer.svg" alt="Building systems. Automating work. Exploring AI." width="100%" />
 </p>
 
 <p align="center">
