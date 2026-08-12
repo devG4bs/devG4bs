@@ -47,7 +47,7 @@ Tenho interesse em construir produtos completos: interfaces, APIs, microsserviç
 
 **Explorando atualmente:**
 
-- Agentes de IA · aplicações com LLM · MCP
+- Agentes de IA · aplicacoes com LLM · MCP · n8n
 - LangChain · LangGraph · automação para desenvolvedores
 - Arquitetura de software · sistemas distribuídos
 
@@ -77,7 +77,7 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 | **Agentes de IA** | agentes com tool calling e ownership |
 | **LangChain / LangGraph** | orquestração e fluxos stateful |
 | **MCP** | tools reais conectadas ao domínio |
-| **Automação** | automação de engenharia com IA |
+| **Automacao / n8n** | workflows, automacao de engenharia e integracoes |
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devG4bs/devG4bs@23432cfcdb9eb6230fdbd3afb067722e381306b5/assets/ai-flow.png" alt="Fluxo de IA" width="100%" />
@@ -123,6 +123,8 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
   <img src="https://img.shields.io/badge/Agentes%20de%20IA-312E81?style=for-the-badge" alt="Agentes de IA" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
+
+`LangChain` · `LangGraph` · `MCP` · `LLMs` · `Agentes de IA` · `n8n`
 
 ### Bancos de Dados
 
@@ -174,7 +176,7 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 Automação com IA</h3>
-      <p>Agentes, LLMs, automações e tooling para engenharia.</p>
+      <p>Agentes, LLMs, n8n, automacoes e tooling para engenharia.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🔌 Integrações</h3>
@@ -250,7 +252,7 @@ Interesse prático em engenharia de IA aplicada a produto e tooling:
 ## 🔭 Explorando agora
 
 ```text
-Agentes de IA  ·  Engenharia de LLM  ·  MCP  ·  LangGraph
+Agentes de IA  ·  Engenharia de LLM  ·  MCP  ·  LangGraph  ·  n8n
 Arquitetura de Sistemas  ·  Sistemas Distribuídos
 Automação para Desenvolvedores  ·  Infraestrutura Cloud
 ```

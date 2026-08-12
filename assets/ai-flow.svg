@@ -22,5 +22,5 @@
     <path d="M620 128 H660"><animate attributeName="stroke-dasharray" values="0 50;50 0" dur="1.6s" begin="0.6s" repeatCount="indefinite"/></path>
     <path d="M778 128 H818"><animate attributeName="stroke-dasharray" values="0 50;50 0" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></path>
   </g>
-  <text x="36" y="196" font-family="Consolas, Monaco, monospace" font-size="12" fill="#475569">tool calling | mcp | orquestracao | observabilidade</text>
+  <text x="36" y="196" font-family="Consolas, Monaco, monospace" font-size="12" fill="#475569">tool calling | mcp | n8n | orquestracao | observabilidade</text>
 </svg>

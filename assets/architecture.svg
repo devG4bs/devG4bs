@@ -16,7 +16,7 @@
   <polygon points="490,336 484,324 496,324" fill="#38bdf8"/>
   <rect x="320" y="340" width="340" height="72" rx="14" fill="#111827" stroke="#818cf8" stroke-width="1.5"/>
   <text x="490" y="370" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a5b4fc" letter-spacing="2">ORQUESTRACAO</text>
-  <text x="490" y="394" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#f8fafc">LangGraph | MCP | Tools</text>
+  <text x="490" y="394" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#f8fafc">LangGraph | MCP | n8n</text>
   <path d="M490 412 L490 440 L180 440 L180 470" fill="none" stroke="#334155" stroke-width="2"/>
   <path d="M490 412 L490 440 L490 470" fill="none" stroke="#334155" stroke-width="2"/>
   <path d="M490 412 L490 440 L800 440 L800 470" fill="none" stroke="#334155" stroke-width="2"/>
